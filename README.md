@@ -4,8 +4,8 @@
 
 ## Motivation / Scope
 
-Look, I'm not a brilliant HA-modding wizard - I bought a Govee Glide (https://eu.govee.com/products/govee-glide-wall-light) because it's rad but couldn't find any integrations to make it work.
-So, a weekend later I achieved my MVP: app make light go bling (in technical terms)
+Look, I'm not a brilliant HA-modding wizard - I bought a Govee Glide (https://eu.govee.com/products/govee-glide-wall-light) because it's rad but couldn't find any integrations to make it work. <br/>
+So, a weekend later I achieved my MVP: **app make light go bling (in technical terms)**
 
 My main ressources were the HA API docs https://developers.home-assistant.io/docs/core/entity/light/ and the Govee Local API doc https://app-h5.govee.com/user-manual/wlan-guide
 
