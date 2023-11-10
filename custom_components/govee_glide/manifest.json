@@ -1,0 +1,6 @@
+{
+    "domain": "govee_glide",
+    "name": "Govee Glide",
+    "iot_class": "assumed_state",
+    "version": "0.1"
+  }
